@@ -22,7 +22,7 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 - Windows, Linux (CentOS, CloudLinux, Ubuntu)  
 
 ### Web Servers:  
-- Apache, IIS, LiteSpeed  
+- Apache, Nginx, IIS, LiteSpeed  
 
 ### Programming Languages:  
 - C, C++, PHP, Java  

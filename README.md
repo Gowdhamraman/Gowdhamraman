@@ -94,13 +94,9 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 
 ## 📫 How to Reach Me  
 - **Email:** gowdham93@gmail.com  
-- **Phone:** +91 8012896060  
 - **Location:** Kochi, India  
 
 ---
-
-## 🛠️ GitHub Stats  
-[![Gowdham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gowdhamr&show_icons=true&theme=dark)](https://github.com/gowdhamr)
 
 
 Thank you for visiting my profile! 😊  

@@ -1,7 +1,7 @@
 👋 Hi, I'm M. Gowdham Raman!  
 
 🌐 About Me  
-I am a personable and knowledgeable IT professional with over **5 + years of experience** in providing technical support across Linux servers, websites, and email systems. I’ve worked on **server administration, migrations, troubleshooting complex issues**, and **team management**. Currently, I’m expanding my skills into **DevOps tools and practices**, excited to leverage them for both personal and organizational growth.  
+I am a personable and knowledgeable IT professional with over **6 + years of experience** in providing technical support across Linux servers, websites, and email systems. I’ve worked on **server administration, migrations, troubleshooting complex issues**, and **team management**. Currently, I’m expanding my skills into **DevOps tools and practices**, excited to leverage them for both personal and organizational growth.  
 
 ---
 

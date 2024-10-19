@@ -11,7 +11,8 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 - **Git**  
 - **Jenkins**  
 - **Docker**  
-- **Kubernetes**  
+- **Kubernetes**
+- **Terraform**
 - **Ansible**  
 
 ---

@@ -1,7 +1,9 @@
 👋 Hi, I'm M. Gowdham Raman!  
 
 🌐 About Me  
-I am a personable and knowledgeable IT professional with over **6 + years of experience** in providing technical support across Linux servers, websites, and email systems. I’ve worked on **server administration, migrations, troubleshooting complex issues**, and **team management**. Currently, I’m expanding my skills into **DevOps tools and practices**, excited to leverage them for both personal and organizational growth.  
+I’m a seasoned IT professional with over 7 years of hands-on experience in Linux server administration, technical support, and team operations. My journey has taken me through various roles, from resolving complex server and website issues to managing team performance and client relations. Currently, as a Senior System Engineer supporting enterprise-level infrastructure at Nexcess (a Liquid Web brand), I specialize in advanced troubleshooting, performance optimization, and high-availability server configurations.
+
+Passionate about continuous learning, I’m actively diving deeper into DevOps methodologies and tools like AWS, Docker, Kubernetes, Terraform, and Jenkins—eager to bridge the gap between development and operations while delivering scalable, secure, and efficient solutions. With a strong foundation in both technical and managerial aspects, I bring a unique blend of problem-solving, communication, and leadership to the table. 
 
 ---
 

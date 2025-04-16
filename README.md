@@ -13,7 +13,8 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 - **Docker**  
 - **Kubernetes**
 - **Terraform**
-- **Ansible**  
+- **Ansible**
+- **Puppet**  
 
 ---
 
@@ -36,10 +37,15 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience 
+### **Senior System Engineer**  
+**(Feb 2025 - Present)**
+-- Provide advanced technical support for enterprise-level clients under Nexcess, a Liquid Web brand.
+-- Serve as part of the ESG (Enterprise Support Group), handling high-impact tasks like cluster configuration (HAProxy, DB replication), security scanning, and performance tuning.
+-- Troubleshoot and resolve complex system and software issues, optimize server performance, and collaborate cross-functionally to deliver customized solutions for clients with specialized configurations.
 
 ### **Team Admin**  
-**(June 1st, 2022 - Present)**  
+**(June 1st, 2022 - Jan 2025)**  
 - Manage team schedules, performance evaluations, and client meetings.  
 - Track KPIs and PLI for the team and assist management with planning.  
 - Achieved client recognition for efficiently managing team operations.  
@@ -59,14 +65,8 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 
 ---
 
-## 🎓 Education  
-- **B.Tech in Information Technology** – Pondicherry University (2014) – 78.6%  
-- **HSC** – Thantai Periyar Govt. Hr. Sec. School (2010) – 65%  
-- **SSLC** – Thantai Periyar Govt. Hr. Sec. School (2008) – 79%  
-
----
-
 ## 📑 Certifications  
+- **Zen Class DevOps Program**
 - **cPanel University Certifications:** CWA, CPP, CWSA-1  
 - **Diploma in Java**  
 - **Diploma in Computer Applications**  
@@ -78,18 +78,6 @@ I'm actively pursuing in-depth knowledge of **DevOps concepts** and working with
 - Quick Learner and Adaptable under pressure  
 - Excellent Communication & Interpersonal Skills  
 - Results-oriented with a focus on meeting deadlines  
-
----
-
-## 🏆 Academic Projects  
-- **Optimal Route Queries with Arbitrary Order Constraints** (Java, MySQL)  
-- **Stock Management System** (Vb.net, MS Access)  
-
----
-
-## 🌱 Hobbies  
-- Working with multimedia software  
-- Reading about new technologies  
 
 ---
 
